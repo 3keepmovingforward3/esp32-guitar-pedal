@@ -6,6 +6,7 @@ This project is a way to make an all purpose guitar pedal using an ESP32.
 1. Distortion
 2. Delay
 3. Noise Gate
+4. Tuner
 
 ## Chaining
 I'd like to be able to chain; this will be limited by the esp32 SOC.  
